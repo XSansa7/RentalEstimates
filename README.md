@@ -13,8 +13,7 @@ Apr 6. 2016
 
 然后在这里 https://cse.google.com/cse/all 创建一个自定义搜索引擎，获取搜索引擎ID
 
-用的代码是`searchForLinks.py`，可以先拷贝一份到本地，把名字改成你们的，比如 `searchForLinks_shx.py`, (这份就可以不用传到github上)。因为每个人要用到的ID都不一样。
+把你们刚刚申请的对应的Google API key和Custom Search Engine ID填进keyFile里以后就可以跑了（左边API key，右边cse ID，中间用tab隔开）。
 
-然后把你们刚刚申请的对应的Google API key和Custom Search Engine ID填进keyFile里以后就可以跑了（左边API key，右边cse ID，中间用tab隔开）。每天跑一次这个脚本就行。
-
+用的代码是`searchForLinks.py`，每天跑一次这个脚本就行。
 
