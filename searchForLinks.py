@@ -6,10 +6,10 @@ def main():
 
   ## change developerKey into your own key
   keys = []
-  keyFile = open('keyfile','r')
+  keyFile = open('keyFile','r')
   for line in keyFile.readlines():
     devKey = line.split('\t')[0]
-    cxKey = line.split('\t')[1]
+    cxKey = line.split('\t')[1].strip()
     keys.append([devKey,cxKey])
   for keyIndex in range(len(keys)):
     service = build("customsearch", "v1",developerKey=keys[keyIndex][0])
@@ -29,7 +29,7 @@ def main():
           print "search page "+str(queryIndex+1)
 
           ## change the value of cx to your own search engine ID
-          res = service.cse().list(q=querys[addressIndex],cx=keys[keyIndex][0],start=1+queryIndex*10).execute()
+          res = service.cse().list(q=querys[addressIndex],cx=keys[keyIndex][1],start=1+queryIndex*10).execute()
 
           file = open('zillow','a')
           for item in res['items']:
