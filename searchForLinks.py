@@ -12,9 +12,10 @@ def main():
     cxKey = line.split('\t')[1].strip()
     keys.append([devKey,cxKey])
   for keyIndex in range(len(keys)):
+    print keys[keyIndex][0]
     service = build("customsearch", "v1",developerKey=keys[keyIndex][0])
     ## change shx to your name
-    addressFile = open('city_st_clean_shx','r')
+    addressFile = open('city_st_clean_jxs','r')
     querys=[]
     for address in addressFile.readlines()[0:10]:
       querys.append(address.strip())
@@ -22,25 +23,28 @@ def main():
     # there should be at most 1000 more links added to the file 'zillow'
     addressIndex = 0
     exceed = 1
-    try:
-      for addressIndex in range(0,10):
-        print "search for: "+ querys[addressIndex]
-        for queryIndex in range(0,10):
-          print "search page "+str(queryIndex+1)
+    #try:
+    for addressIndex in range(0,10):
+      print "search for: "+ querys[addressIndex]
+      for queryIndex in range(0,10):
+        print "search page "+str(queryIndex+1)
 
-          ## change the value of cx to your own search engine ID
+        ## change the value of cx to your own search engine ID
+        try:
           res = service.cse().list(q=querys[addressIndex],cx=keys[keyIndex][1],start=1+queryIndex*10).execute()
-
           file = open('zillow','a')
           for item in res['items']:
             file.write(item['link']+"\n")
-    except:
-      print 'quota use up?'
-      exceed = 0
+        except Exception,e:
+          print e
+          exceed = 0
+    # except Exception,e: 
+    #   print e
+    #   exceed = 0
 
     ## change file name to your own -- jxs -- gjq
-    addressFile = open('city_st_clean_shx','r')
-    addressFile_new = open('city_st_clean_shx_new','w')
+    addressFile = open('city_st_clean_jxs','r')
+    addressFile_new = open('city_st_clean_jxs_new','w')
 
     # drop the 10 addresses that have been searched
     for address in addressFile.readlines()[addressIndex+exceed:]:
@@ -48,8 +52,8 @@ def main():
     addressFile.close()
 
     ## change shx to your name
-    os.remove('city_st_clean_shx')
-    os.rename('city_st_clean_shx_new','city_st_clean_shx')
+    os.remove('city_st_clean_jxs')
+    os.rename('city_st_clean_jxs_new','city_st_clean_jxs')
 
 if __name__ == '__main__':
   main()
