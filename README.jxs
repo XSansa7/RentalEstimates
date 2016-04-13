@@ -1,0 +1,21 @@
+README.txt
+
+processor.java is used to extract house information from Zillow's html page (an example html page is included:zi2099726429_zpid) and format the information such that each output line contains zpid, house address, street address, city, state, zipcode, number of bedrooms, number of bathrooms, house size, recently sold price, current price, rental, lot size, transaction information, built year, parking information.
+
+How to compile:
+javac processor.java
+How to run:
+java processor [PATH_TO_FOLDER_OF_HTML_PAGES] > zillowInputs.txt
+(Please create a directory and put only Zillow's html pages in it)
+
+zillowETL_and_Profile.pig is used to clean and profile zillowInputs.txt
+What have been cleaned: 
+information of houses that are not in the state of New York
+information of houses that are not in the areas we are concerned (haven't determined what areas we should exclude, so temporarily comment out that line of code)
+information of houses having current price or sold price lost.
+
+What have been profiled: 
+Distribution of number of useful information over areas. (To verify, please uncomment /*DUMP distribution_city;*/)
+Average unit house price (dollar/sqft) for each area. It gives us some intuition about how geographic location would affect the house price (To verify, please uncomment /*DUMP current_average_price_per_sqft_for_city;*/)
+Average unit house price (dollar/sqft) for each built year. It gives us some intuition about how age of a house would affect the house price (To verify, please uncomment /*DUMP previous_average_price_per_sqft_for_built_year;*/)
+

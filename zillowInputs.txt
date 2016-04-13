@@ -1,0 +1,197 @@
+105991423_zpid	146 Champ Ln, Belle Rose, LA 70341	146 Champ Ln	Belle Rose	LA	70341	-- beds	-- baths	-1	-1	-1	unknown	1 acre	unknown	unknown	unknown
+124264125_zpid	7620 249th St # 11C9, Bellerose, NY 11426	7620 249th St # 11C9	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+124441451_zpid	7608A 249th St # 10F11, Bellerose, NY 11426	7608A 249th St # 10F11	Bellerose	NY	11426	-- beds	-- baths	-1	190000	-1	unknown	unknown	Sep 2015 for $190,000	unknown	unknown
+2099097382_zpid	8030 244th St, Bellerose, NY 11426	8030 244th St	Bellerose	NY	11426	4 beds	3 baths	-1	-1	799000	unknown	10,082 sqft	unknown	1945	Garage - Detached
+2099262209_zpid	8545 249 St, Bellerose, NY 11426	8545 249 St	Bellerose	NY	11426	4 beds	3 baths	-1	-1	798000	unknown	4,040 sqft	unknown	unknown	Garage - Detached
+2099726429_zpid	88-08 241st Street # FL 2ND, Bellerose, NY 11426	88-08 241st Street # FL 2ND	Bellerose	NY	11426	1 bed	1 bath	-1	-1	-1	$1,675	unknown	unknown	unknown	unknown
+2099785347_zpid	34-39 200 St # 2FL, Bayside, NY 11361	34-39 200 St # 2FL	Bayside	NY	11361	3 beds	2 baths	-1	-1	-1	$2,600	unknown	unknown	2015	unknown
+2099917488_zpid	7715 250 St, Bellerose, NY 11426	7715 250 St	Bellerose	NY	11426	2 beds	2 baths	-1	-1	485000	unknown	unknown	unknown	unknown	unknown
+2099992798_zpid	9324 239th St APT 2F, Bellerose, NY 11426	9324 239th St APT 2F	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	unknown	Off street, On street
+2100288722_zpid	89-12 237 Street Bellerose Ny 11426, Bellerose, NY 11426	89-12 237 Street Bellerose Ny 11426	Bellerose	NY	11426	4 beds	3 baths	1700	-1	-1	unknown	30 sqft	unknown	1930	1 sqft garage
+2101023934_zpid	84-52 252nd St, Bellerose, NY 11426	84-52 252nd St	Bellerose	NY	11426	4 beds	2 baths	-1	-1	-1	unknown	4,000 sqft	unknown	1945	unknown
+2101405563_zpid	0000 249th Street, Bellerose, NY 11426	0000 249th Street	Bellerose	NY	11426	4 beds	2 baths	-1	-1	-1	unknown	40 sqft	unknown	unknown	unknown
+2101457402_zpid	81-07 248th St, Bellerose, NY 11426	81-07 248th St	Bellerose	NY	11426	4 beds	3 baths	-1	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+2101850404_zpid	84 253rd Street, Bellerose, NY 11426	84 253rd Street	Bellerose	NY	11426	4 beds	2 baths	-1	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+2101869405_zpid	7608 249th St # A, Bellerose, NY 11426	7608 249th St # A	Bellerose	NY	11426	1 bed	1 bath	-1	-1	-1	unknown	unknown	unknown	1945	unknown
+2102334546_zpid	8043 247 St, Bellerose, NY 11426	8043 247 St	Bellerose	NY	11426	3 beds	3.5 baths	-1	-1	-1	unknown	unknown	unknown	1955	unknown
+2102336181_zpid	8423 251st Street, Bellerose, NY 11426	8423 251st Street	Bellerose	NY	11426	4 beds	-- baths	-1	-1	-1	unknown	unknown	unknown	1955	unknown
+2102625833_zpid	9208 243rd St # 3, Bellerose, NY 11426	9208 243rd St # 3	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2102857165_zpid	86-25 249th, Bellerose, NY 11426	86-25 249th	Bellerose	NY	11426	3 beds	2 baths	-1	-1	-1	unknown	3,200 sqft	unknown	unknown	unknown
+2103120241_zpid	83 39 252 Nd Street, Bellerose, NY 11426	83 39 252 Nd Street	Bellerose	NY	11426	4 beds	3 baths	2009	-1	-1	unknown	4,000 sqft	unknown	1941	On street, 0 sqft garage
+2104710775_zpid	7735 249th St, Bellerose, NY 11426	7735 249th St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2104802866_zpid	23914 Hillside Ave, Bellerose, NY 11426	23914 Hillside Ave	Bellerose	NY	11426	2 beds	1.5 baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2105333343_zpid	9458 225th St, Queens Village, NY 11428	9458 225th St	Queens Village	NY	11428	-- beds	-- baths	-1	280000	-1	unknown	unknown	Nov 2014 for $280,000	1920	unknown
+2105762050_zpid	7718 250th St, Bellerose, NY 11426	7718 250th St	Bellerose	NY	11426	2 beds	2 baths	1200	-1	-1	unknown	2,600 sqft	unknown	1950	Garage - Detached, Off street
+2106019730_zpid	92-25 244 St One Family, Floral Park, NY 11001	92-25 244 St One Family	Floral Park	NY	11001	3 beds	2 baths	-1	-1	-1	unknown	unknown	unknown	unknown	Garage - Detached
+2107146952_zpid	8825 239th St, Bellerose, NY 11426	8825 239th St	Bellerose	NY	11426	4 beds	1.5 baths	1590	-1	-1	unknown	3,000 sqft	unknown	1920	Garage - Detached
+2107215684_zpid	18 Mott Ave, Inwood, NY 11096	18 Mott Ave	Inwood	NY	11096	6 beds	5 baths	-1	-1	-1	unknown	6,499 sqft	unknown	1929	0 space
+2108776388_zpid	unknown	unknown	unknown	unknown	unknown	unknown	unknown	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2110919883_zpid	9123 245th St, Bellerose, NY 11426	9123 245th St	Bellerose	NY	11426	3 beds	3 baths	-1	400000	-1	unknown	2,112 sqft	Nov 2014 for $400,000	1925	unknown
+2111516348_zpid	7620B 249th St, Bellerose, NY 11426	7620B 249th St	Bellerose	NY	11426	2 beds	1 bath	-1	207000	-1	unknown	unknown	Jul 2013 for $207,000	1950	unknown
+2112266065_zpid	9502 240th St, Floral Park, NY 11001	9502 240th St	Floral Park	NY	11001	5 beds	2.5 baths	-1	-1	-1	unknown	unknown	unknown	unknown	Garage - Detached, Off street
+2112319654_zpid	8714 239th St, Bellerose, NY 11426	8714 239th St	Bellerose	NY	11426	4 beds	1 bath	78	-1	-1	unknown	8,034 sqft	unknown	1950	Garage - Detached
+2113670806_zpid	8936 241st St, Bellerose, NY 11426	8936 241st St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	$1,850	unknown	unknown	unknown	unknown
+2114449550_zpid	9431 239th St, Floral Park, NY 11001	9431 239th St	Floral Park	NY	11001	3 beds	3.5 baths	1890	-1	-1	unknown	1,890 sqft	unknown	1929	unknown
+2114481448_zpid	8840 249th St, Bellerose, NY 11426	8840 249th St	Bellerose	NY	11426	3 beds	2 baths	-1	-1	-1	unknown	2,265 sqft	unknown	1925	Garage - Attached
+2115083870_zpid	9451 240th St, Floral Park, NY 11001	9451 240th St	Floral Park	NY	11001	4 beds	2 baths	1358	-1	-1	unknown	2,919 sqft	unknown	1928	Garage - Detached
+2115084401_zpid	240 St Off Jamaica Ave, Floral Park, NY 11001	240 St Off Jamaica Ave	Floral Park	NY	11001	4 beds	2.5 baths	1358	-1	-1	unknown	2,919 sqft	unknown	1928	Garage - Detached
+2117453247_zpid	8911 241st St, Bellerose, NY 11426	8911 241st St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	1935	0 space
+2117971566_zpid	8015 231 St, Bellerose Manor, NY 11426	8015 231 St	Bellerose Manor	NY	11426	4 beds	2 baths	2000	-1	-1	unknown	4,000 sqft	unknown	1955	Garage - Detached
+2118156093_zpid	8815 241st St, Bellerose, NY 11426	8815 241st St	Bellerose	NY	11426	3 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2118504917_zpid	8808 241st St, Bellerose, NY 11426	8808 241st St	Bellerose	NY	11426	3 beds	3 baths	1500	-1	-1	unknown	3,000 sqft	unknown	1925	Garage - Attached, 2 spaces
+2124713881_zpid	23906 Hillside Ave, Bellerose, NY 11426	23906 Hillside Ave	Bellerose	NY	11426	3 beds	2 baths	-1	-1	-1	unknown	unknown	Mar 2013 for $475,000	1955	unknown
+2126368978_zpid	24404 Jericho Tpke, Floral Park, NY 11001	24404 Jericho Tpke	Floral Park	NY	11001	Studio	-- baths	800	-1	-1	unknown	1,840 sqft	unknown	1926	unknown
+2126940689_zpid	24613 Jericho Tpke, Bellerose, NY 11426	24613 Jericho Tpke	Bellerose	NY	11426	1 bed	1 bath	1400	-1	-1	unknown	unknown	unknown	unknown	Garage - Attached, Garage - Detached, Off street, On street
+2130746300_zpid	7502 249th St, Bellerose, NY 11426	7502 249th St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	1950	unknown
+2131261623_zpid	109 Creole Ln, Thibodaux, LA 70301	109 Creole Ln	Thibodaux	LA	70301	3 beds	2 baths	3064	-1	-1	unknown	0.25 acres	unknown	1960	unknown
+2132942972_zpid	7604A 249th St, Bellerose, NY 11426	7604A 249th St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2134102998_zpid	unknown	unknown	unknown	unknown	unknown	unknown	unknown	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2138410195_zpid	9514 243rd St, Floral Park, NY 11001	9514 243rd St	Floral Park	NY	11001	3 beds	1.5 baths	1389	-1	-1	unknown	unknown	unknown	1929	unknown
+2138875565_zpid	9267 240th St, Bellerose, NY 11426	9267 240th St	Bellerose	NY	11426	5 beds	2 baths	2366	-1	-1	unknown	unknown	unknown	1920	unknown
+2139310963_zpid	7708 249th St, Bellerose, NY 11426	7708 249th St	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2139604197_zpid	8618 249th St, Bellerose, NY 11426	8618 249th St	Bellerose	NY	11426	3 beds	2 baths	1190	-1	-1	unknown	4,000 sqft	unknown	1935	unknown
+2139934024_zpid	7614 249th St, Bellerose, NY 11426	7614 249th St	Bellerose	NY	11426	1 bed	1 bath	-1	-1	-1	unknown	unknown	unknown	1949	unknown
+2140066436_zpid	unknown	unknown	unknown	unknown	unknown	unknown	unknown	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2140411631_zpid	7622A 249th St, Bellerose, NY 11426	7622A 249th St	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+2140466072_zpid	9259 Gettysburg St, Bellerose, NY 11426	9259 Gettysburg St	Bellerose	NY	11426	4 beds	2.5 baths	-1	-1	-1	unknown	23 acres	unknown	1945	unknown
+2141942690_zpid	8824 239th St, Bellerose, NY 11426	8824 239th St	Bellerose	NY	11426	5 beds	3 baths	1600	-1	-1	unknown	3,001 sqft	unknown	1930	unknown
+2143414797_zpid	235 Henry St, Inwood, NY 11096	235 Henry St	Inwood	NY	11096	7 beds	3 baths	-1	-1	439000	unknown	3,692 sqft	unknown	1908	0 space
+2144445960_zpid	9234 Gettysburg St, Bellerose, NY 11426	9234 Gettysburg St	Bellerose	NY	11426	3 beds	1 bath	1100	350000	-1	unknown	unknown	Apr 2013 for $350,000	1930	unknown
+2145998462_zpid	7516 249th St # F-2, Bellerose, NY 11426	7516 249th St # F-2	Bellerose	NY	11426	1 bed	1 bath	-1	-1	-1	unknown	unknown	unknown	1949	unknown
+2146703837_zpid	24210 89th Ave, Bellerose, NY 11426	24210 89th Ave	Bellerose	NY	11426	4 beds	1.5 baths	-1	-1	-1	unknown	unknown	unknown	unknown	Carport, Garage - Detached, Off street, On street
+31092187_zpid	1026 Cherry Ln, Floral Park, NY 11001	1026 Cherry Ln	Floral Park	NY	11001	-- beds	1.5 baths	900	390000	-1	unknown	4,000 sqft	Jan 2015 for $390,000	1952	280 sqft garage
+31094998_zpid	24 Barwick St, Floral Park, NY 11001	24 Barwick St	Floral Park	NY	11001	3 beds	1.5 baths	1556	-1	-1	unknown	4,800 sqft	unknown	1948	280 sqft garage
+31095658_zpid	242 Cherry Ln, Floral Park, NY 11001	242 Cherry Ln	Floral Park	NY	11001	4 beds	3 baths	1408	465000	-1	unknown	4,000 sqft	Jul 2014 for $465,000	1952	Garage - Attached, 294 sqft garage
+31095694_zpid	230 Mckee St, Floral Park, NY 11001	230 Mckee St	Floral Park	NY	11001	3 beds	2 baths	1000	-1	-1	unknown	5,889 sqft	Aug 2007 for $560,000	1923	unknown
+31095709_zpid	220 Mckee St, Floral Park, NY 11001	220 Mckee St	Floral Park	NY	11001	2 beds	3 baths	1226	-1	589000	unknown	4,200 sqft	Mar 2004 for $395,000	1926	Garage - Attached, Garage - Detached, 162 sqft garage
+31170433_zpid	9446 226th St, Floral Park, NY 11001	9446 226th St	Floral Park	NY	11001	3 beds	2.5 baths	1264	-1	-1	unknown	3,000 sqft	unknown	1925	Garage - Attached, 1 space, 280 sqft garage
+31170480_zpid	9440 238th St, Bellerose Village, NY 11001	9440 238th St	Bellerose Village	NY	11001	4 beds	2 baths	1248	365000	-1	unknown	5,000 sqft	Feb 2015 for $365,000	1959	Garage - Detached, 1 space, 308 sqft garage
+31170520_zpid	9411 238th St, Floral Park, NY 11001	9411 238th St	Floral Park	NY	11001	5 beds	2 baths	2150	-1	499900	unknown	4,000 sqft	Jul 2012 for $390,000	1969	Garage - Attached, Off street, On street, 1 space
+31170531_zpid	9428 239th St, Floral Park, NY 11001	9428 239th St	Floral Park	NY	11001	3 beds	2.5 baths	1320	-1	-1	unknown	1,980 sqft	Dec 2005 for $465,000	1930	0 space
+31170538_zpid	9442 239th St, Floral Park, NY 11001	9442 239th St	Floral Park	NY	11001	3 beds	2 baths	1320	405000	-1	unknown	1,930 sqft	Nov 2014 for $405,000	1930	Garage - Attached, 180 sqft garage
+31170553_zpid	9433 238th St, Floral Park, NY 11001	9433 238th St	Floral Park	NY	11001	4 beds	1 bath	930	335000	-1	unknown	4,410 sqft	Sep 2014 for $335,000	1950	Garage - Detached, 330 sqft garage
+31170559_zpid	9500 239th St, Floral Park, NY 11001	9500 239th St	Floral Park	NY	11001	1 bed	1 bath	2282	-1	-1	unknown	2,250 sqft	Jul 2006 for $699,000	1930	180 sqft garage
+31170561_zpid	9504 239th St, Floral Park, NY 11001	9504 239th St	Floral Park	NY	11001	3 beds	2 baths	1320	-1	365000	unknown	2,178 sqft	Nov 2006 for $435,483	1930	Garage - Detached, 180 sqft garage
+31170564_zpid	9510 239th St, Floral Park, NY 11001	9510 239th St	Floral Park	NY	11001	-- beds	2 baths	1320	-1	-1	unknown	1,980 sqft	Mar 1999 for $170,000	1930	180 sqft garage
+31170593_zpid	9447 239th St, Floral Park, NY 11001	9447 239th St	Floral Park	NY	11001	3 beds	1.5 baths	1315	100000	-1	unknown	1,890 sqft	Jul 2015 for $100,000	1929	Garage - Attached, 180 sqft garage
+31170596_zpid	9441 239th St, Floral Park, NY 11001	9441 239th St	Floral Park	NY	11001	-- beds	1 bath	1315	-1	-1	unknown	1,980 sqft	Oct 2001 for $255,000	1929	180 sqft garage
+31170599_zpid	9435 239th St, Floral Park, NY 11001	9435 239th St	Floral Park	NY	11001	-- beds	1.5 baths	1315	-1	-1	unknown	1,980 sqft	Feb 1995 for $230,000	1929	180 sqft garage
+31170601_zpid	9431 239th St, Bellerose Village, NY 11001	9431 239th St	Bellerose Village	NY	11001	3 beds	4 baths	1315	15000	-1	unknown	1,980 sqft	Feb 2016 for $15,000	1929	unknown
+31170617_zpid	9511 239th St, Floral Park, NY 11001	9511 239th St	Floral Park	NY	11001	-- beds	1.5 baths	1315	-1	-1	unknown	1,980 sqft	Sep 2008 for $335,000	1931	180 sqft garage
+31170624_zpid	9527 239th St, Floral Park, NY 11001	9527 239th St	Floral Park	NY	11001	3 beds	2 baths	1315	-1	-1	unknown	1,980 sqft	Jan 2013 for $283,000	1931	180 sqft garage
+31170626_zpid	9531 239th St, Floral Park, NY 11001	9531 239th St	Floral Park	NY	11001	-- beds	1.5 baths	1315	-1	-1	unknown	1,980 sqft	unknown	1931	180 sqft garage
+31170643_zpid	9402 241st St, Floral Park, NY 11001	9402 241st St	Floral Park	NY	11001	3 beds	2 baths	1500	-1	-1	unknown	2,700 sqft	Jun 2004 for $354,150	1929	180 sqft garage
+31170971_zpid	9523 238th St, Floral Park, NY 11001	9523 238th St	Floral Park	NY	11001	-- beds	1 bath	1669	-1	-1	unknown	5,600 sqft	Nov 1990 for $239,000	1958	220 sqft garage
+31170978_zpid	24216 Superior Rd, Floral Park, NY 11001	24216 Superior Rd	Floral Park	NY	11001	3 beds	1.5 baths	1358	454000	-1	unknown	3,000 sqft	Dec 2014 for $454,000	1928	Garage - Attached, 180 sqft garage
+31171129_zpid	9225 244th St, Floral Park, NY 11001	9225 244th St	Floral Park	NY	11001	3 beds	2.5 baths	1072	355100	-1	unknown	2,250 sqft	Jan 2016 for $355,100	1926	Garage - Attached, 1 space, 180 sqft garage
+31171450_zpid	39 Hudson Rd, Floral Park, NY 11001	39 Hudson Rd	Floral Park	NY	11001	5 beds	2 baths	1646	-1	795000	unknown	7,000 sqft	Mar 1998 for $260,000	1929	324 sqft garage
+31171799_zpid	35 Spooner St, Floral Park, NY 11001	35 Spooner St	Floral Park	NY	11001	4 beds	3 baths	1406	336000	-1	unknown	3,800 sqft	Dec 2014 for $336,000	1954	Garage - Attached, 240 sqft garage
+31172890_zpid	10 Rose Ave, Floral Park, NY 11001	10 Rose Ave	Floral Park	NY	11001	4 beds	2.5 baths	2218	719000	-1	unknown	4,000 sqft	Oct 2014 for $719,000	2007	Garage - Detached, 240 sqft garage
+31173165_zpid	39 Larch Ave, Floral Park, NY 11001	39 Larch Ave	Floral Park	NY	11001	4 beds	2 baths	1928	-1	499000	unknown	5,000 sqft	Sep 2015 for $650,000	1921	Garage - Detached, 300 sqft garage
+31173242_zpid	63 Pine Ave, Floral Park, NY 11001	63 Pine Ave	Floral Park	NY	11001	3 beds	2.5 baths	2232	640000	-1	unknown	4,000 sqft	Mar 2015 for $640,000	1925	Garage - Attached, 216 sqft garage
+31173650_zpid	1 E Elder Ave, Floral Park, NY 11001	1 E Elder Ave	Floral Park	NY	11001	3 beds	1 bath	1258	-1	539000	unknown	4,356 sqft	unknown	1930	Garage - Detached, 1 space, 216 sqft garage
+31173876_zpid	142 Geranium Ave, Floral Park, NY 11001	142 Geranium Ave	Floral Park	NY	11001	2 beds	2 baths	1344	-1	-1	unknown	5,841 sqft	Jan 2011 for $435,000	1928	Garage - Attached, 216 sqft garage
+31174163_zpid	75 Vanderwater Ave, Floral Park, NY 11001	75 Vanderwater Ave	Floral Park	NY	11001	5 beds	3 baths	1681	-1	575000	unknown	4,360 sqft	unknown	1954	190 sqft garage
+31174165_zpid	210 Beech St, Floral Park, NY 11001	210 Beech St	Floral Park	NY	11001	4 beds	3 baths	1355	-1	-1	unknown	4,000 sqft	Jul 2012 for $348,000	1954	Garage - Attached, 1 space, 190 sqft garage
+31175678_zpid	62 Raff Ave, Floral Park, NY 11001	62 Raff Ave	Floral Park	NY	11001	4 beds	2 baths	1396	440000	-1	unknown	4,040 sqft	Mar 2015 for $440,000	1948	Garage - Attached, 264 sqft garage
+31175687_zpid	218 Aspen St, Floral Park, NY 11001	218 Aspen St	Floral Park	NY	11001	4 beds	3 baths	3197	-1	1099999	unknown	6,000 sqft	Apr 2004 for $339,000	2006	Garage - Detached, 264 sqft garage
+31176602_zpid	276 Marguerite Ave, South Floral Park, NY 11001	276 Marguerite Ave	South Floral Park	NY	11001	4 beds	1 bath	1210	250000	-1	unknown	4,870 sqft	Nov 2015 for $250,000	1958	unknown
+31176716_zpid	276 Roquette Ave, South Floral Park, NY 11001	276 Roquette Ave	South Floral Park	NY	11001	6 beds	2.5 baths	2171	465000	-1	unknown	4,437 sqft	Oct 2015 for $465,000	1965	unknown
+31262037_zpid	17 Augustina St, Inwood, NY 11096	17 Augustina St	Inwood	NY	11096	-- beds	2 baths	2334	-1	-1	unknown	6,080 sqft	Jan 2003 for $349,000	1998	Garage - Attached
+31262258_zpid	14 Clinton Ave, Inwood, NY 11096	14 Clinton Ave	Inwood	NY	11096	4 beds	1 bath	1977	-1	-1	unknown	9,161 sqft	unknown	1925	unknown
+31262404_zpid	13 Henry St, Inwood, NY 11096	13 Henry St	Inwood	NY	11096	3 beds	1.5 baths	984	-1	-1	unknown	1,899 sqft	unknown	1920	unknown
+31262410_zpid	84 Bayview Ave, Inwood, NY 11096	84 Bayview Ave	Inwood	NY	11096	3 beds	1 bath	1206	-1	-1	unknown	6,006 sqft	unknown	1920	unknown
+31262548_zpid	53 Monroe St, Inwood, NY 11096	53 Monroe St	Inwood	NY	11096	3 beds	2 baths	1000	-1	318800	unknown	3,290 sqft	Jun 2015 for $125,000	1925	180 sqft garage
+32090337_zpid	8325 240th St, Bellerose, NY 11426	8325 240th St	Bellerose	NY	11426	3 beds	2 baths	1040	565000	-1	unknown	5,000 sqft	Jun 2014 for $565,000	1950	Garage - Attached
+32091117_zpid	8538 239th St, Jamaica, NY 11426	8538 239th St	Jamaica	NY	11426	3 beds	2 baths	1824	-1	-1	unknown	4,000 sqft	Jul 2007 for $430,000	2008	unknown
+32091124_zpid	8616 239th St, Jamaica, NY 11426	8616 239th St	Jamaica	NY	11426	3 beds	-- baths	2861	-1	-1	unknown	4,000 sqft	Feb 2006 for $812,000	1940	unknown
+32091130_zpid	8706 239th St, Jamaica, NY 11426	8706 239th St	Jamaica	NY	11426	-- beds	-- baths	720	-1	-1	unknown	6,572 sqft	Jan 2007 for $105,000	1955	unknown
+32091168_zpid	8523 239th St, Jamaica, NY 11426	8523 239th St	Jamaica	NY	11426	-- beds	-- baths	834	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+32091169_zpid	8519 239th St, Jamaica, NY 11426	8519 239th St	Jamaica	NY	11426	6 beds	5 baths	2387	-1	-1	unknown	4,000 sqft	Jul 2012 for $725,000	2011	unknown
+32091176_zpid	23914 Hillside Ave # BELLER, Jamaica, NY 11426	23914 Hillside Ave # BELLER	Jamaica	NY	11426	2 beds	1 bath	1184	550000	-1	unknown	unknown	Oct 2014 for $550,000	1950	unknown
+32091185_zpid	8534 241st St, Bellerose, NY 11426	8534 241st St	Bellerose	NY	11426	2 beds	1 bath	3075	-1	-1	unknown	4,000 sqft	Dec 2000 for $422,500	1937	unknown
+32091370_zpid	23919 88th Ave, Jamaica, NY 11426	23919 88th Ave	Jamaica	NY	11426	3 beds	3 baths	1620	512000	-1	unknown	5,070 sqft	Jan 2016 for $512,000	1930	Off street
+32091743_zpid	8825 238th St, Jamaica, NY 11426	8825 238th St	Jamaica	NY	11426	2 beds	1 bath	1695	520000	-1	unknown	3,000 sqft	Nov 2015 for $520,000	1930	Garage - Attached, 0 space
+32091754_zpid	8808 239th St, Jamaica, NY 11426	8808 239th St	Jamaica	NY	11426	3 beds	2 baths	1400	435000	-1	unknown	3,000 sqft	Mar 2015 for $435,000	1930	unknown
+32091762_zpid	8832 239th St, Jamaica, NY 11426	8832 239th St	Jamaica	NY	11426	-- beds	-- baths	1582	-1	-1	unknown	3,000 sqft	Jan 2006 for $490,000	1930	unknown
+32091782_zpid	8827 239th St, Bellerose, NY 11426	8827 239th St	Bellerose	NY	11426	2 beds	1 bath	1590	-1	-1	unknown	3,000 sqft	Nov 2000 for $283,000	1920	unknown
+32092009_zpid	8907 238th St, Jamaica, NY 11426	8907 238th St	Jamaica	NY	11426	3 beds	2 baths	1583	465000	-1	unknown	3,001 sqft	May 2015 for $465,000	1925	1 space
+32092023_zpid	8936 239th St, Jamaica, NY 11426	8936 239th St	Jamaica	NY	11426	2 beds	1 bath	2496	-1	-1	unknown	5,282 sqft	unknown	1952	unknown
+32092035_zpid	8933 239th St, Bellerose, NY 11426	8933 239th St	Bellerose	NY	11426	4 beds	1.5 baths	1270	-1	-1	unknown	3,000 sqft	Dec 2000 for $216,500	1930	unknown
+32092325_zpid	9309 239th St, Jamaica, NY 11426	9309 239th St	Jamaica	NY	11426	2 beds	1 bath	2256	-1	-1	unknown	4,000 sqft	Mar 2012 for $504,000	1929	unknown
+32098439_zpid	7727 249th St, Bellerose, NY 11426	7727 249th St	Bellerose	NY	11426	-- beds	-- baths	896	-1	-1	unknown	2,500 sqft	Aug 2007 for $400,000	1950	unknown
+32098944_zpid	8035 246th St, Jamaica, NY 11426	8035 246th St	Jamaica	NY	11426	3 beds	2.5 baths	1247	498000	-1	unknown	4,500 sqft	Jan 2016 for $498,000	1955	unknown
+32098983_zpid	8043 247th St, Jamaica, NY 11426	8043 247th St	Jamaica	NY	11426	4 beds	3 baths	1092	655000	-1	unknown	4,500 sqft	Mar 2016 for $655,000	1955	Garage - Detached, 1 space
+32098994_zpid	8024 249th St, Jamaica, NY 11426	8024 249th St	Jamaica	NY	11426	3 beds	2.5 baths	1224	427500	-1	unknown	1,997 sqft	Mar 2015 for $427,500	1945	unknown
+32099000_zpid	8038 249th St, Jamaica, NY 11426	8038 249th St	Jamaica	NY	11426	-- beds	-- baths	1224	-1	-1	unknown	1,954 sqft	unknown	1945	unknown
+32099004_zpid	8048 249th St, Jamaica, NY 11426	8048 249th St	Jamaica	NY	11426	-- beds	-- baths	1224	-1	-1	unknown	1,920 sqft	unknown	1945	unknown
+32099012_zpid	8066 249th St, Jamaica, NY 11426	8066 249th St	Jamaica	NY	11426	4 beds	2 baths	1760	-1	899000	unknown	2,456 sqft	Sep 2005 for $670,000	1945	Garage - Attached
+32099043_zpid	8067 249th St, Jamaica, NY 11426	8067 249th St	Jamaica	NY	11426	3 beds	2 baths	1224	365000	-1	unknown	1,963 sqft	Oct 2013 for $365,000	1940	Garage - Attached
+32099045_zpid	8063 249th St, Jamaica, NY 11426	8063 249th St	Jamaica	NY	11426	-- beds	-- baths	1224	-1	-1	unknown	1,751 sqft	unknown	1940	unknown
+32099049_zpid	8055 249th St, Bellerose, NY 11426	8055 249th St	Bellerose	NY	11426	3 beds	2.5 baths	1224	-1	-1	unknown	1,711 sqft	Jul 2010 for $430,000	1940	unknown
+32099051_zpid	8051 249th St, Jamaica, NY 11426	8051 249th St	Jamaica	NY	11426	-- beds	-- baths	1224	-1	-1	unknown	1,674 sqft	Sep 2003 for $325,000	1940	unknown
+32099054_zpid	8045 249th St, Jamaica, NY 11426	8045 249th St	Jamaica	NY	11426	-- beds	-- baths	1224	-1	-1	unknown	1,661 sqft	Jul 1998 for $169,000	1940	unknown
+32099057_zpid	8039 249th St, Jamaica, NY 11426	8039 249th St	Jamaica	NY	11426	3 beds	2 baths	1224	390000	-1	unknown	1,634 sqft	Feb 2015 for $390,000	1940	Garage - Attached, 1 space
+32099059_zpid	8035 249th St, Jamaica, NY 11426	8035 249th St	Jamaica	NY	11426	3 beds	1.5 baths	1224	-1	-1	unknown	1,602 sqft	Jan 2011 for $385,000	1950	unknown
+32099065_zpid	8023 249th St, Jamaica, NY 11426	8023 249th St	Jamaica	NY	11426	3 beds	2 baths	1224	-1	-1	unknown	1,566 sqft	Jun 2008 for $445,000	1940	unknown
+32099071_zpid	8011 249th St, Jamaica, NY 11426	8011 249th St	Jamaica	NY	11426	3 beds	2 baths	1514	440000	-1	unknown	1,514 sqft	Jun 2015 for $440,000	1940	Garage - Attached
+32099075_zpid	8003 249th St, Jamaica, NY 11426	8003 249th St	Jamaica	NY	11426	3 beds	1 bath	1224	-1	-1	unknown	1,476 sqft	May 2012 for $335,000	1940	unknown
+32099118_zpid	8042 252nd St, Jamaica, NY 11426	8042 252nd St	Jamaica	NY	11426	2 beds	1 bath	998	-1	-1	unknown	4,000 sqft	Aug 2012 for $465,000	1950	unknown
+32099261_zpid	8123 247th St, Jamaica, NY 11426	8123 247th St	Jamaica	NY	11426	3 beds	3 baths	1600	-1	-1	unknown	4,000 sqft	unknown	1950	Garage - Detached
+32099270_zpid	8116 249th St, Jamaica, NY 11426	8116 249th St	Jamaica	NY	11426	-- beds	-- baths	1270	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+32099271_zpid	8120 249th St, Jamaica, NY 11426	8120 249th St	Jamaica	NY	11426	-- beds	-- baths	1952	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+32099272_zpid	8124 249th St, Jamaica, NY 11426	8124 249th St	Jamaica	NY	11426	-- beds	-- baths	1250	-1	-1	unknown	4,000 sqft	May 1999 for $225,000	1955	unknown
+32099279_zpid	8152 249th St, Jamaica, NY 11426	8152 249th St	Jamaica	NY	11426	-- beds	-- baths	1270	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+32099280_zpid	8156 249th St, Jamaica, NY 11426	8156 249th St	Jamaica	NY	11426	-- beds	-- baths	1270	-1	-1	unknown	4,000 sqft	Feb 2008 for $497,500	1955	unknown
+32099514_zpid	8214 249th St, Bellerose, NY 11426	8214 249th St	Bellerose	NY	11426	-- beds	-- baths	3824	-1	-1	unknown	5,000 sqft	Aug 2010 for $715,000	1955	unknown
+32099515_zpid	8218 249th St, Jamaica, NY 11426	8218 249th St	Jamaica	NY	11426	-- beds	-- baths	1900	-1	-1	unknown	4,000 sqft	unknown	1955	unknown
+32099516_zpid	8222 249th St, Jamaica, NY 11426	8222 249th St	Jamaica	NY	11426	-- beds	-- baths	1376	-1	-1	unknown	6,000 sqft	unknown	1955	unknown
+32099518_zpid	8232 249th St, Jamaica, NY 11426	8232 249th St	Jamaica	NY	11426	-- beds	-- baths	912	-1	-1	unknown	3,000 sqft	unknown	1955	unknown
+32099519_zpid	8236 249th St, Jamaica, NY 11426	8236 249th St	Jamaica	NY	11426	-- beds	-- baths	1412	-1	-1	unknown	3,000 sqft	Dec 2010 for $387,348	1955	unknown
+32099520_zpid	8240 249th St, Jamaica, NY 11426	8240 249th St	Jamaica	NY	11426	3 beds	2 baths	1160	527000	-1	unknown	4,000 sqft	Jun 2013 for $527,000	1950	Garage - Attached
+32099522_zpid	8248 249th St, Jamaica, NY 11426	8248 249th St	Jamaica	NY	11426	-- beds	-- baths	3172	-1	-1	unknown	4,000 sqft	Aug 2006 for $544,000	1955	unknown
+32099561_zpid	8269 249th St, Jamaica, NY 11426	8269 249th St	Jamaica	NY	11426	-- beds	-- baths	1014	-1	-1	unknown	5,000 sqft	unknown	1955	unknown
+32099567_zpid	8243 249th St, Jamaica, NY 11426	8243 249th St	Jamaica	NY	11426	-- beds	-- baths	2232	-1	-1	unknown	4,700 sqft	unknown	1955	unknown
+32099794_zpid	8312 249th St, Jamaica, NY 11426	8312 249th St	Jamaica	NY	11426	4 beds	2 baths	1321	515000	-1	unknown	4,000 sqft	Nov 2014 for $515,000	1950	unknown
+32099804_zpid	8356 249th St, Jamaica, NY 11426	8356 249th St	Jamaica	NY	11426	4 beds	2 baths	1092	2500	-1	unknown	4,200 sqft	Mar 2016 for $2,500	1950	unknown
+32099834_zpid	8359 249th St, Jamaica, NY 11426	8359 249th St	Jamaica	NY	11426	-- beds	-- baths	1447	-1	-1	unknown	5,000 sqft	Aug 2003 for $505,000	1950	unknown
+32099839_zpid	8335 249th St, Jamaica, NY 11426	8335 249th St	Jamaica	NY	11426	-- beds	-- baths	1145	-1	-1	unknown	4,000 sqft	unknown	1950	unknown
+32099921_zpid	8339 252nd St, Jamaica, NY 11426	8339 252nd St	Jamaica	NY	11426	4 beds	3 baths	2009	-1	-1	unknown	4,000 sqft	unknown	1940	On street, 0 sqft garage
+32100041_zpid	8422 249th St, Jamaica, NY 11426	8422 249th St	Jamaica	NY	11426	-- beds	-- baths	2365	-1	-1	unknown	4,000 sqft	Apr 2010 for $770,000	1945	unknown
+32100049_zpid	8454 249th St, Jamaica, NY 11426	8454 249th St	Jamaica	NY	11426	-- beds	-- baths	876	-1	-1	unknown	4,000 sqft	unknown	1945	unknown
+32100061_zpid	8429 249th St, Jamaica, NY 11426	8429 249th St	Jamaica	NY	11426	4 beds	3 baths	1500	665000	-1	unknown	100 sqft	Sep 2014 for $665,000	1950	Garage - Attached
+32100063_zpid	8421 249th St, Jamaica, NY 11426	8421 249th St	Jamaica	NY	11426	4 beds	-- baths	1635	531000	-1	unknown	4,000 sqft	Nov 2015 for $531,000	1945	Garage - Detached
+32100065_zpid	8413 249th St, Jamaica, NY 11426	8413 249th St	Jamaica	NY	11426	-- beds	-- baths	2760	-1	-1	unknown	4,400 sqft	unknown	1945	unknown
+32100099_zpid	8428 251st St, Jamaica, NY 11426	8428 251st St	Jamaica	NY	11426	3 beds	1 bath	1470	535000	-1	unknown	4,000 sqft	Dec 2015 for $535,000	1940	unknown
+32100311_zpid	8545 249th St, Bellerose, NY 11426	8545 249th St	Bellerose	NY	11426	4 beds	3 baths	1826	-1	-1	unknown	4,040 sqft	Sep 2004 for $540,000	1945	unknown
+32100313_zpid	8537 249th St, Jamaica, NY 11426	8537 249th St	Jamaica	NY	11426	-- beds	-- baths	1528	-1	-1	unknown	4,040 sqft	May 2002 for $298,500	1945	unknown
+32100317_zpid	8521 249th St, Jamaica, NY 11426	8521 249th St	Jamaica	NY	11426	3 beds	2 baths	1528	198000	-1	unknown	4,098 sqft	Aug 2014 for $198,000	1945	unknown
+32100318_zpid	8517 249th St, Jamaica, NY 11426	8517 249th St	Jamaica	NY	11426	-- beds	-- baths	1824	-1	-1	unknown	3,880 sqft	Nov 1997 for $205,000	1945	unknown
+32100319_zpid	8511 249th St, Jamaica, NY 11426	8511 249th St	Jamaica	NY	11426	2 beds	1 bath	1200	610000	-1	unknown	4,625 sqft	Apr 2015 for $610,000	1945	Off street
+32100320_zpid	8509 249th St, Jamaica, NY 11426	8509 249th St	Jamaica	NY	11426	-- beds	-- baths	1273	-1	-1	unknown	4,988 sqft	unknown	1945	unknown
+32100608_zpid	8635 249th St, Jamaica, NY 11426	8635 249th St	Jamaica	NY	11426	-- beds	-- baths	1050	-1	-1	unknown	3,400 sqft	unknown	1935	unknown
+32100858_zpid	8750 249th St, Jamaica, NY 11426	8750 249th St	Jamaica	NY	11426	-- beds	-- baths	1948	-1	-1	unknown	4,413 sqft	Jan 1998 for $230,000	1945	unknown
+32101646_zpid	8838 249th St, Jamaica, NY 11426	8838 249th St	Jamaica	NY	11426	-- beds	-- baths	2162	-1	-1	unknown	2,934 sqft	unknown	1925	unknown
+32101647_zpid	8840 249th St, Jamaica, NY 11426	8840 249th St	Jamaica	NY	11426	3 beds	2 baths	2162	510000	-1	unknown	2,250 sqft	Mar 2016 for $510,000	1925	Garage - Attached
+32101667_zpid	8903 249th St, Jamaica, NY 11426	8903 249th St	Jamaica	NY	11426	3 beds	1 bath	1490	-1	-1	unknown	3,000 sqft	May 2005 for $319,300	1955	Garage - Attached
+32101669_zpid	8843 249th St, Jamaica, NY 11426	8843 249th St	Jamaica	NY	11426	3 beds	1 bath	2230	-1	-1	unknown	4,000 sqft	unknown	1920	Garage - Detached, Off street, 4 spaces
+32101671_zpid	8837 249th St, Jamaica, NY 11426	8837 249th St	Jamaica	NY	11426	4 beds	3 baths	2230	430000	-1	unknown	3,001 sqft	Mar 2016 for $430,000	1933	Garage - Attached, 1 space
+32101672_zpid	8835 249th St, Jamaica, NY 11426	8835 249th St	Jamaica	NY	11426	-- beds	-- baths	2230	-1	-1	unknown	3,000 sqft	unknown	1920	unknown
+32101674_zpid	8829 249th St, Jamaica, NY 11426	8829 249th St	Jamaica	NY	11426	3 beds	3 baths	1630	350000	-1	unknown	5,400 sqft	Mar 2016 for $350,000	1920	Garage - Attached
+32152029_zpid	9423 221st St, Jamaica, NY 11428	9423 221st St	Jamaica	NY	11428	3 beds	2 baths	1488	-1	-1	unknown	3,998 sqft	unknown	1940	Garage - Detached
+32153399_zpid	9447 224th St, Jamaica, NY 11428	9447 224th St	Jamaica	NY	11428	3 beds	2 baths	1292	-1	-1	unknown	2,800 sqft	Oct 2005 for $435,000	1920	Garage - Attached
+56513549_zpid	121 Belrose Ave, Lowell, MA 01852	121 Belrose Ave	Lowell	MA	01852	3 beds	1 bath	1176	250000	-1	unknown	6,534 sqft	Jan 2015 for $250,000	1956	Garage - Attached
+59343044_zpid	1068A Pulaski Rd, East Northport, NY 11731	1068A Pulaski Rd	East Northport	NY	11731	5 beds	4.5 baths	4072	575100	-1	unknown	0.95 acres	Aug 2015 for $575,100	1997	Garage - Attached
+59567813_zpid	6 Catherine St S, East Northport, NY 11731	6 Catherine St S	East Northport	NY	11731	4 beds	2 baths	-1	400000	-1	unknown	0.35 acres	Oct 2014 for $400,000	2000	unknown
+72542318_zpid	7622 249th St # 11D8, Bellerose, NY 11426	7622 249th St # 11D8	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Jul 2010 for $225,000	unknown	unknown
+72639171_zpid	7620 249th St, Bellerose, NY 11426	7620 249th St	Bellerose	NY	11426	2 beds	1 bath	-1	-1	-1	unknown	unknown	Aug 2007 for $217,330	1950	unknown
+72652015_zpid	7516 249th St # 12F61, Bellerose, NY 11426	7516 249th St # 12F61	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Aug 2007 for $188,000	unknown	unknown
+79515248_zpid	7516 249th St # 23D41, Bellerose, NY 11426	7516 249th St # 23D41	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+79729195_zpid	7614 249th St # GV11F, Bellerose, NY 11426	7614 249th St # GV11F	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Aug 2006 for $160,000	unknown	unknown
+79736385_zpid	7502 249th St # B, Bellerose, NY 11426	7502 249th St # B	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Nov 2005 for $273,000	unknown	unknown
+79738547_zpid	7610 249th St # 10F, Bellerose, NY 11426	7610 249th St # 10F	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Jul 2005 for $157,500	unknown	unknown
+79742746_zpid	7608 249th St # 10F11, Bellerose, NY 11426	7608 249th St # 10F11	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	May 2010 for $180,000	unknown	unknown
+79744530_zpid	7604 249th St # GV10, Bellerose, NY 11426	7604 249th St # GV10	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Jan 2005 for $148,000	unknown	unknown
+80277349_zpid	7604 249th St # A101, Bellerose, NY 11426	7604 249th St # A101	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Dec 2007 for $52,500	unknown	unknown
+80382380_zpid	7516A 249th St # 12F61, Bellerose, NY 11426	7516A 249th St # 12F61	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	unknown	unknown	unknown
+89137134_zpid	245 76th Ave, Bellerose, NY 11426	245 76th Ave	Bellerose	NY	11426	-- beds	-- baths	-1	-1	-1	unknown	unknown	Aug 2009 for $167,000	unknown	unknown
