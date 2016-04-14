@@ -1,0 +1,26 @@
+Code file list for processing Google API Data:
+
+- searchForLinks.py
+  
+  searchForLinks.py is used for searching for links of specific housing address calling Google API. We extracted a set of target street names based on the 311 requesting dataset, and using this data set to search for links of housing on Zillow. The result of searchForLinks.py is pipelined to the crawler.
+  The format of output file is one link per line.
+
+- mapAPI.py
+  
+  mapAPI is used for searching neighborhood information using Google Map API. The information extracted includes the number of subway stations, laundries, supermarkets, and the closest distance to each of these targets. 
+  The output file has the format as this: address, latitude, longtitide, distance to nearest laundry, number of laundry within 1.5km, distance to nearest supermarkets, number of supermarkets within 1.5km, distance to nearest train station, number of train stations within 1.5km.
+
+- neighborhood.pig
+
+  neighborhood.pig is used for cleaning and profiling the data that mapAPI.py produced. The filtered records are: null field because of backend error of Google Map API; failed to search for geometry information becasue of wrong address.
+  what have been profiled:
+  	- total number of records
+    - number of records that has 0 supermarkets around
+    - number of records that has 0 trainstation around
+    - number of records that has 0 laudries around
+    - northest position(largest longtitude)
+    - southest position(smallest longtitude)
+    - eastest position(smallest latitude)
+    - westest position(largest latitude)
+
+
