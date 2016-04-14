@@ -1,0 +1,24 @@
+These code are used to process the data of house complaint from 311.
+
+------Description of 311 data set:
+size: 6.5GB;
+entry: 11044440
+fields: 52
+Time: from 2004 to present(500 entries/day)
+content: Each entry is a descriptive information of one house/department, such as the location(street&city&latitude), the complaint(the complaint type and specific complaint). 
+
+
+------Target data set:
+We select the top 10 city in New York City which have the most complaint entries. 
+
+------Tool
+cluster: dumbo
+Pig
+Python
+
+------How to process and clean the data from 311?
+1、download the data from 311 website to your cluster (we choose dumbo):https://nycopendata.socrata.com/api/views/erm2-nwe9/rows.csv
+2、Use the 311_format.py to do the data format standardization which use the "\t" as a delimiter;
+3、Use the 311_city_complain_order.pig to get the top10 city which have the most complaint;
+4、Use the 311_cleandata.pig to get all the useful metadata about the top10 city(we select 10 fields from 52 fields);
+
