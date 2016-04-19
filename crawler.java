@@ -95,7 +95,8 @@ public class crawler {
 	public static void savePage(String page, String filepath, String desPath) {
 		//System.out.println("FILENAME: " + filename);
 		String path;
-		String filename = filepath.substring(filepath.lastIndexOf("/") + 1, filepath.length());
+		int index = filepath.lastIndexOf("/");
+		String filename = filepath.substring(filepath.lastIndexOf("/", index - 1) + 1, index);
 		if (desPath.charAt(desPath.length() - 1) != '/') {
 			path = desPath + "/" + filename;
 		}
@@ -154,11 +155,12 @@ public class crawler {
 			//else {
 			//	System.err.println("robot exclusion");
 			//}
-                try {
-                    Thread.sleep(5000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+			try {
+				Thread.sleep(5000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 	}				
 }
