@@ -102,8 +102,8 @@ public class processor {
 			    	    space_number = temp2.replace(",", "");		
 			    	}
 			    }
-			    System.err.println(space_number);
-			    line += "\t" + space_number;
+			    System.err.println(space);
+			    line += "\t" + space;
 			    int markSold = content.indexOf("<span id=\"listing-icon\" data-icon-class=\"zsg-icon-recently-sold\" class=\"zsg-icon-recently-sold recently-sold\"></span>  Sold: <span class=\"\">");
 			    String sold = "unknown";
 			    String sold_number = "-1";
@@ -114,7 +114,7 @@ public class processor {
 			    	sold_number = sold_number.replace("$", "");
 			    }
 			    
-			    line += "\t" + sold_number;
+			    line += "\t" + sold;
 			    int markSale = content.indexOf("<span id=\"listing-icon\" data-icon-class=\"zsg-icon-for-sale\" class=\"zsg-icon-for-sale for-sale\"></span>");
 			    String sale = "unknown";
 			    String sale_number = "-1";
@@ -125,7 +125,7 @@ public class processor {
 			    	sale_number = sale.replace(",", "");
 			    	sale_number = sale_number.replace("$", "");
 			    }
-			    line += "\t" + sale_number;
+			    line += "\t" + sale;
 			    int markRental = content.indexOf("<span id=\"listing-icon\" data-icon-class=\"zsg-icon-for-rent\" class=\"zsg-icon-for-rent for-rent\"></span>");
 			    String rent = "unknown";
 			    if (markRental != -1) {
