@@ -145,15 +145,20 @@ public class crawler {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			/*if (robotSafe(url)) {*/
+			//if (robotSafe(url)) {
 				String page = getPage(url);
 			    if (page.length() != 0) {
 				    savePage(page, url.getFile(), args[1]);
 			  }
-		    /*}*/
-			else {
-				System.err.println("robot exclusion");
-			}
+		    //}
+			//else {
+			//	System.err.println("robot exclusion");
+			//}
+                try {
+                    Thread.sleep(5000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
 		}
 	}				
 }
