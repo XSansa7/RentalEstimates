@@ -1,0 +1,3 @@
+The file multivariate_regression uses the machine learning lib - Mllib of Spark.
+This is the code for building the multivariate linear regression model using LinearRegressionWithSGD package.
+This is the first edition. We may adjust the parameters for training or choose different training functions.
