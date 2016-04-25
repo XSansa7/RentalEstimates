@@ -26,8 +26,8 @@ public class processor {
 			if (!entry.getName().substring(temp + 1).equals("zpid")) {
 				continue;
 			}
-			InputStream is;
 		    try {
+                        InputStream is;
 		    	String line = entry.getName();
 				is = new FileInputStream(entry);
 			    byte b[] = new byte[1000];
@@ -169,6 +169,7 @@ public class processor {
 			    line += "\t" + builtDate;
 			    line += "\t" + parking;
 			    System.out.println(line);
+                            is.close();
 			    
 			} catch (Exception e) {
 			// TODO Auto-generated catch block
