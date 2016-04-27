@@ -15,7 +15,7 @@ def main():
     print keys[keyIndex][0]
     service = build("customsearch", "v1",developerKey=keys[keyIndex][0])
     ## change shx to your name
-    addressFile = open('city_st_clean_shx','r')
+    addressFile = open('city_st_clean_gjq','r')
     querys=[]
     for address in addressFile.readlines()[0:10]:
       querys.append(address.strip())
@@ -43,8 +43,8 @@ def main():
     #   exceed = 0
 
     ## change file name to your own -- jxs -- gjq
-    addressFile = open('city_st_clean_shx','r')
-    addressFile_new = open('city_st_clean_shx_new','w')
+    addressFile = open('city_st_clean_gjq','r')
+    addressFile_new = open('city_st_clean_gjq_new','w')
 
     # drop the 10 addresses that have been searched
     for address in addressFile.readlines()[addressIndex+exceed:]:
@@ -52,8 +52,8 @@ def main():
     addressFile.close()
 
     ## change shx to your name
-    os.remove('city_st_clean_shx')
-    os.rename('city_st_clean_shx_new','city_st_clean_shx')
+    os.remove('city_st_clean_gjq')
+    os.rename('city_st_clean_gjq_new','city_st_clean_gjq')
 
 if __name__ == '__main__':
   main()
