@@ -15,6 +15,7 @@ public class ZillowMapper
                 System.out.println(comp.length);
 		String zpid = comp[0];
 		String addr = comp[1];
+                String zipcode = comp[5];
 		String beds_info = comp[6];
 		String baths_info = comp[7];
 		String size_info = comp[8];
@@ -171,7 +172,7 @@ public class ZillowMapper
 				}
 			}
 		}*/
-		String v = addr + "\t" + num_of_beds + "\t" + num_of_baths + "\t" + size + "\t" + price + "\t" + time + "\t" + lot_size + "\t" + built_time;
+		String v = addr + "\t" + zipcode + "\t" +  num_of_beds + "\t" + num_of_baths + "\t" + size + "\t" + price + "\t" + time + "\t" + lot_size + "\t" + built_time;
 	        context.write(new Text(zpid), new Text(v));
 	    
 	}	
