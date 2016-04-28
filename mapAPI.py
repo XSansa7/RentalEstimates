@@ -39,7 +39,7 @@ keyFile = open('keyFile','r')
 for line in keyFile.readlines():
 	key = line.split('\t')[0]
 	keys.append(key)
-zillowData = open('zillowData','r')
+zillowData = open('readyToJoin_zipcode.jxs','r')
 neighborData = open('neighborData','a')
 facility = ['laundry','supermarket','train station']
 for key in keys:
