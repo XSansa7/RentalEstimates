@@ -1,0 +1,35 @@
+all_about_house.py 
+
+------Funciton:
+Download data using Google Map API, using credentials from local file 'keyFile'. The credentials are from Google Developer Accounts. The information collected are facilities count and distance.
+
+------Input dataset:
+The input files are the dataset processed by scripts in 311 Dir
+
+------Description of output dataset (final_data):
+The links are stored in a local file named "neighborData"
+size: 1.7MB;
+entry: 13968
+content: the data contains neighbor facility infomation near each house
+fields:
+	zpid (Zillow house identifier) 
+	address 
+	distance to nearest laundry
+	number of supermarkets within 0.5 kilometer
+	distance to nearest supermarket
+	number of supermarkets within 0.5 kilometer
+	distance to nearest subway station
+	number of supermarkets within 0.5 kilometer
+
+
+neighborhood_analytic_profile.py
+
+------Funciton:
+This pig file is used for doing statistics on the neighborhood data, it counted the number of houses that has no supermarkets/laundries/subway station.
+
+------Usage
+usage: pyspark-submit neighborhood_analytic_profile.py
+
+------Tool
+cluster: dumbo
+Spark

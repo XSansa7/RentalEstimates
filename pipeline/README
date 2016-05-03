@@ -1,0 +1,20 @@
+The code are organized in the order of our processing pipeline:
+
+               |   => 311 data      |
+               |                    |
+Preprocess  => |   => NeighborData  |  => Analytic
+               |                    |
+               |   => Zillow        |
+
+1. Preprocess Dir: 
+	searchForLinks.py: search the links for houses in NYC in the domain of http://www.zillow.com/homedetails
+2. 311 Dir:
+	the code is used to process the data of house complaint from 311 request data.
+3. NeighborData Dir:
+	mapAPI.py: crawling data from Google Map API.(keyfile stores all the credential pairs)
+	neighborhood_analytic.pig: get some statistic info for the neighborhood data
+	neighborhoodETL_and_Profile.pig: profiling for neighborhood data
+4. Zillow Dir:
+5. Analytic Dir:
+	all_about_house.py: join the 3 datasets and filter out invalid enties
+	model.py: based on the output data of all_about_house.py, using pyspark's MLlib module to build a regression model

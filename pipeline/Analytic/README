@@ -1,0 +1,38 @@
+all_about_house.py 
+
+------Target data set:
+neighborData got from sripts of NeighborData Dir
+zillowData got from sripts of Zillow Dir
+311 city complaints data from scripts of 311 Dir
+
+------Description of target dataset (final_data):
+size: 2.8MB;
+entry: 12224
+content: the data contains all valid features that is going to be used for modeling of each house
+fields:
+1.zpid 
+2.zip code
+3.address
+4.longitude
+5.latitude
+6.number of supermarkets within 0.5 kilometer
+7.distance to nearest supermarket
+8.number of supermarkets within 0.5 kilometer
+9.distance to nearest subway station
+10.number of supermarkets within 0.5 kilometer
+11.number of bedrooms
+12.number of baths
+13.size of house
+14.last sold price/current price on Zillow
+15.time between last sold and now(in number of month)
+16.size of lot
+17.built year
+
+------Tool
+cluster: dumbo
+Spark
+
+------Usage
+Run the script using pyspark-submit.
+Command as: pyspark-submit all_about_house.py
+Note that first need to make sure the output directory does not already exists.

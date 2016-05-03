@@ -1,0 +1,7 @@
+mapAPI.py
+
+Download data using Google Map API, using credentials from local file 'keyFile'. The credentials are from Google Developer Accounts. 
+
+usage: python mapAPI.py
+
+The links are stored in a local file named "neighborData"
