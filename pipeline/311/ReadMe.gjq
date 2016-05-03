@@ -1,0 +1,39 @@
+This code is used to process the data of house complaint from 311 request data.
+
+------Description of 311 data set:
+size: 6.5GB;
+entry: 11048011
+fields: 52
+Time: from 2004 to present(500 entries/day)
+content: Each entry is a descriptive information of one house/department, such as the location(street&city&latitude), the complaint(the complaint type and specific complaint). 
+
+
+------Target data set:
+We select the top 3 city in New York City which have the most complaint entries.
+And select the target 10 fields to apply to final model:
+311 key id
+zip code
+city name
+street name(address)
+longitude
+latitude
+complaint type
+complaint description
+complaint submitted time
+complaint completed time
+
+------Tool
+cluster: dumbo
+Pig
+Python
+
+------How to process and clean the data from 311?
+1、download the data from 311 website to your cluster (we choose dumbo):https://nycopendata.socrata.com/api/views/erm2-nwe9/rows.csv
+2、Use the "311_format.py" to do the data format standardization which use the "\t" as a delimiter;
+3、Use the "311_city_complain_order.pig" to get the top3 city which have the most complaint;
+4、Use the "311_clean_data_three_city.pig" to get all the useful metadata about the top3 city(we select 10 fields from 52 fields);
+5、Use the "311_city_complain_order.pig" to get the top15 complaint types which have the most amount;
+6、Use the "HouseCleanData" MapReduce code to process with the 6217741 results from "311_clean_data_three_city.pig", in order to uniform the different expressions of the value in "complaint type" field and do the data aggregation; Finally, get the target dataset.
+
+------Extra
+Use the "311_city_street.pig" to get the combination of all the address of houses/apartments in NYC. These results of this code is used to get all the target house links set from Zillow;
