@@ -12,8 +12,7 @@ Preprocess  => |   => NeighborData  |  => Analytic
 	the code is used to process the data of house complaint from 311 request data.
 3. NeighborData Dir:
 	mapAPI.py: crawling data from Google Map API.(keyfile stores all the credential pairs)
-	neighborhood_analytic.pig: get some statistic info for the neighborhood data
-	neighborhoodETL_and_Profile.pig: profiling for neighborhood data
+	neighborhood_analytic_profile.py: get some statistic info for the neighborhood data
 4. Zillow Dir:
 5. Analytic Dir:
 	all_about_house.py: join the 3 datasets and filter out invalid enties

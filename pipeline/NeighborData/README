@@ -1,4 +1,4 @@
-all_about_house.py 
+mapAPI.py 
 
 ------Funciton:
 Download data using Google Map API, using credentials from local file 'keyFile'. The credentials are from Google Developer Accounts. The information collected are facilities count and distance.
@@ -21,11 +21,12 @@ fields:
 	distance to nearest subway station
 	number of supermarkets within 0.5 kilometer
 
+==============================================================================================================================
 
 neighborhood_analytic_profile.py
 
 ------Funciton:
-This pig file is used for doing statistics on the neighborhood data, it counted the number of houses that has no supermarkets/laundries/subway station.
+This py file is used for doing statistics on the neighborhood data, it returns the maximum and minimum distance of the nearest facility
 
 ------Usage
 usage: pyspark-submit neighborhood_analytic_profile.py

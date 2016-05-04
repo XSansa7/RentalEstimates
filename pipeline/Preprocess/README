@@ -1,0 +1,9 @@
+searchForLinks.py
+
+------Usage
+used for collecting links of house detail pages from zillow.com
+how to use: python searchForLinks.py
+Make sure the key and search engine credential pairs are saved in the keyFile file.
+
+------Output
+links for house detail pages, propagated to the crawler

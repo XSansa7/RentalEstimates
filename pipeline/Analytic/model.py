@@ -60,7 +60,5 @@ model = LinearRegressionWithSGD.train(trainingData,iterations=1000,intercept=Tru
 #labelsAndPredictions = testData.map(lambda lp: lp.label).zip(predictions)
 valuesAndPreds = testData.map(lambda p: (float(model.predict(p.features)), p.label))
 metrics = RegressionMetrics(valuesAndPreds)
-metrics.r2
-testMSE = labelsAndPredictions.map(lambda (v, p): (v - p) * (v - p)).sum()/float(testData.count())
 print metrics.r2
 

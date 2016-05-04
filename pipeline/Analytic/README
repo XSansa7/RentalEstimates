@@ -1,9 +1,9 @@
 all_about_house.py 
 
 ------Target data set:
-neighborData got from sripts of NeighborData Dir
-zillowData got from sripts of Zillow Dir
-311 city complaints data from scripts of 311 Dir
+neighborData got from sripts of NeighborData Dir;
+zillowData got from sripts of Zillow Dir;
+311 city complaints data from scripts of 311 Dir;
 
 ------Description of target dataset (final_data):
 size: 2.8MB;
@@ -34,5 +34,17 @@ Spark
 
 ------Usage
 Run the script using pyspark-submit.
-Command as: pyspark-submit all_about_house.py
+command: pyspark-submit all_about_house.py
 Note that first need to make sure the output directory does not already exists.
+
+==============================================================================================================================
+model.py
+
+------Usage
+Run the script using pyspark-submit on the VM. (because there is no numpy module on dumbo)
+command: pyspark-submit model.py
+
+------Tool
+VM
+Spark
+
